@@ -1,5 +1,5 @@
 {
-    "name": "lazzard/php-ftp-client",
+    "name": "spycrabo/php-ftp-client",
     "description": "This library provides helper classes and methods to manage your FTP files in an OOP way.",
     "type": "library",
     "license": "MIT",
@@ -17,11 +17,11 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^7.4 || ^8.0 || ^8.1 || ^8.2",
         "ext-ftp": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.0"
+        "phpunit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-4": {

@@ -1,10 +1,4 @@
-[![Downloads](https://img.shields.io/packagist/dt/lazzard/php-ftp-client?style=flat-square)](https://packagist.org/packages/lazzard/php-ftp-client)
-[![Packagist Version](https://img.shields.io/packagist/v/lazzard/php-ftp-client?style=flat-square)](https://packagist.org/packages/lazzard/php-ftp-client)
-[![tests](https://img.shields.io/github/workflow/status/lazzard/php-ftp-client/tests?label=tests&style=flat-square)](https://github.com/lazzard/php-ftp-client/actions/workflows/tests.yml)
-[![Minimum PHP version](https://img.shields.io/packagist/php-v/lazzard/php-ftp-client?style=flat-square&color=blue)](https://packagist.org/packages/lazzard/php-ftp-client)
-![License](https://img.shields.io/packagist/l/lazzard/php-ftp-client?style=flat-square)
-
-# Lazzard/FtpClient
+# FtpClient
 
 This library provides helper classes and methods to manage your FTP files in an OOP way.
 
